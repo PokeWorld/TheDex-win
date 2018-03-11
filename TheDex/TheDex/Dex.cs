@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TheDex
 {
-    public partial class Form1 : Form
+    public partial class Dex : Form
     {
-        public Form1()
+        public Dex()
         {
             InitializeComponent();
         }
